@@ -16,26 +16,13 @@ This project aims to predict the default chances of a customer based on the paym
    
    6.AGE: Age in years
    
-   7.PAY_0: Repayment status in September, 2005 (-1=pay duly, 1=payment delay for one month, 2=payment delay for two months,8=payment delay for eight months, 9=payment delay for nine months and above)
+   7.PAY_0 to PAY_6: Repayment status from April to September, 2005 (-1=pay duly, 1=payment delay for one month, 2=payment delay for two months,8=payment delay for eight months, 9=payment delay for nine months and above)
    
-    PAY_2: Repayment status in August, 2005 (scale same as above)
-    PAY_3: Repayment status in July, 2005 (scale same as above)
-    PAY_4: Repayment status in June, 2005 (scale same as above)
-    PAY_5: Repayment status in May, 2005 (scale same as above)
-    PAY_6: Repayment status in April, 2005 (scale same as above)
-    BILL_AMT1: Amount of bill statement in September, 2005 (NT dollar)
-    BILL_AMT2: Amount of bill statement in August, 2005 (NT dollar)
-    BILL_AMT3: Amount of bill statement in July, 2005 (NT dollar)
-    BILL_AMT4: Amount of bill statement in June, 2005 (NT dollar)
-    BILL_AMT5: Amount of bill statement in May, 2005 (NT dollar)
-    BILL_AMT6: Amount of bill statement in April, 2005 (NT dollar)
-    PAY_AMT1: Amount of previous payment in September, 2005 (NT dollar)
-    PAY_AMT2: Amount of previous payment in August, 2005 (NT dollar)
-    PAY_AMT3: Amount of previous payment in July, 2005 (NT dollar)
-    PAY_AMT4: Amount of previous payment in June, 2005 (NT dollar)
-    PAY_AMT5: Amount of previous payment in May, 2005 (NT dollar)
-    PAY_AMT6: Amount of previous payment in April, 2005 (NT dollar)
-    default.payment.next.month: Default payment (1=yes, 0=no)
+   8.BILL_AMT1 to BILL_AMT6: Amount of bill statement from April to September, 2005 (NT dollar)
+    
+   9.PAY_AMT1: Amount of previous payment from April to September, 2005 (NT dollar)
+    
+   10. Default.payment.next.month: Default payment (1=yes, 0=no)
 
 
 ![Capture1](https://user-images.githubusercontent.com/76097123/159478439-33f4262f-650e-434e-ae83-d82e576b2360.PNG)
