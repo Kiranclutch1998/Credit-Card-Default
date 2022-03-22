@@ -4,9 +4,9 @@ This project aims to predict the default chances of a customer based on the paym
 
 ##  Dataset
 
-   1.ID: ID of each client
-   2.LIMIT_BAL: Amount of given credit in NT dollars (includes individual and family/supplementary credit
-   3.SEX: Gender (1=male, 2=female)
+1.ID: ID of each client
+2.LIMIT_BAL: Amount of given credit in NT dollars (includes individual and family/supplementary credit
+3.SEX: Gender (1=male, 2=female)
    4.EDUCATION: (1=graduate school, 2=university, 3=high school, 4=others, 5=unknown, 6=unknown)
    5.MARRIAGE: Marital status (1=married, 2=single, 3=others)
    6.AGE: Age in years
