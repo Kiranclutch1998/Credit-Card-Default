@@ -22,7 +22,7 @@ This project aims to predict the default chances of a customer based on the paym
     
    9.PAY_AMT1: Amount of previous payment from April to September, 2005 (NT dollar)
     
-   10. Default.payment.next.month: Default payment (1=yes, 0=no)
+  10. Default.payment.next.month: Default payment (1=yes, 0=no)
 
 
 ![Capture1](https://user-images.githubusercontent.com/76097123/159478439-33f4262f-650e-434e-ae83-d82e576b2360.PNG)
