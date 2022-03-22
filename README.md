@@ -2,6 +2,9 @@
 
 This project aims to predict the default chances of a customer based on the payment history of the customer.The default rate of customers has a direct impact on the financials of a credit card company. It is important to predict and implement processes to attenuate and adopt methods to minimize this rate.
 
+
+![19_What-are-the-Consequences-of-Credit-Card-Defaulter-800x500](https://user-images.githubusercontent.com/76097123/159482897-a11dc0fb-c302-462b-86a6-7840456c673f.jpg)
+
 ##  Dataset
 
    1.ID: ID of each client
