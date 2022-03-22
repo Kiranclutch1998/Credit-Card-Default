@@ -4,13 +4,13 @@ This project aims to predict the default chances of a customer based on the paym
 
 ##  Dataset
 
-    ID: ID of each client
-    LIMIT_BAL: Amount of given credit in NT dollars (includes individual and family/supplementary credit
-    SEX: Gender (1=male, 2=female)
-    EDUCATION: (1=graduate school, 2=university, 3=high school, 4=others, 5=unknown, 6=unknown)
-    MARRIAGE: Marital status (1=married, 2=single, 3=others)
-    AGE: Age in years
-    PAY_0: Repayment status in September, 2005 (-1=pay duly, 1=payment delay for one month, 2=payment delay for two months,8=payment delay for eight months, 9=payment delay for nine months and above)
+   1.ID: ID of each client
+   2.LIMIT_BAL: Amount of given credit in NT dollars (includes individual and family/supplementary credit
+   3.SEX: Gender (1=male, 2=female)
+   4.EDUCATION: (1=graduate school, 2=university, 3=high school, 4=others, 5=unknown, 6=unknown)
+   5.MARRIAGE: Marital status (1=married, 2=single, 3=others)
+   6.AGE: Age in years
+   7.PAY_0: Repayment status in September, 2005 (-1=pay duly, 1=payment delay for one month, 2=payment delay for two months,8=payment delay for eight months, 9=payment delay for nine months and above)
     PAY_2: Repayment status in August, 2005 (scale same as above)
     PAY_3: Repayment status in July, 2005 (scale same as above)
     PAY_4: Repayment status in June, 2005 (scale same as above)
