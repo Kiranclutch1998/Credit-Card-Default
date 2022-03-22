@@ -37,3 +37,24 @@ This project aims to predict the default chances of a customer based on the paym
 
 ![image](https://user-images.githubusercontent.com/76097123/159570012-eaaf9d92-a162-4073-aa6f-9379046cb945.png)
 
+**Tech used:**
+
+- Python
+- scikit-learn
+- sqlite
+- pandas
+- numpy
+- logger
+- kneed ( python library for getting best k value)
+
+**Algorithms used**
+
+- KMeans( for clustering)
+- Random Forest Classifier
+- XGBoost Classifier
+- Naive Bayes Classifier
+
+**Accuracy Metric** 
+
+- AUC Score
+
